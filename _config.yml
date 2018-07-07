@@ -1,1 +1,11 @@
-theme: jekyll-theme-architect
+title: IS CSS
+logo: /assets/img/logo.png
+github_username:  is-css
+twitter_username: is_css_
+twitter_url: https://twitter.com/is_css_
+facebook_url: https://www.facebook.com/groups/2110941015827391
+meetup_url: https://www.meetup.com/IS-CSS/
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
