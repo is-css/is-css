@@ -7,6 +7,7 @@ twitter_username: is_css_
 twitter_url: https://twitter.com/is_css_
 facebook_url: https://www.facebook.com/groups/2110941015827391
 meetup_url: https://www.meetup.com/IS-CSS/
+opencollective_url: https://opencollective.com/is-css/
 
 # Build settings
 markdown: kramdown
